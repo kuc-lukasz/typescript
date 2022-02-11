@@ -1,0 +1,15 @@
+{
+    "name": "is-typescript",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "devDependencies": {
+        "typescript": "^4.5.5"
+    },
+    "scripts": {
+        "tsc": "./node_modules/.bin/tsc",
+        "tsc-watch": "./node_modules/.bin/tsc --watch"
+    },
+    "author": "",
+    "license": "ISC"
+}
